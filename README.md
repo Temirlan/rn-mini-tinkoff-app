@@ -11,12 +11,14 @@ yarn start
 ```
 
 ## Firebase config
+```
 apiKey: 
 authDomain: 
 projectId:
 storageBucket: 
 messagingSenderId: 
 appId: 
+```
 
 ## Configuration
 Add config file ( .env file )
